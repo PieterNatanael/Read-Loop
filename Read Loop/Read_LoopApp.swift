@@ -11,7 +11,7 @@ import SwiftUI
 struct Read_LoopApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainAppView()
         }
     }
 }
