@@ -5,6 +5,10 @@
 //  Created by Pieter Yoshua Natanael on 06/08/24.
 //
 
+
+
+//released 3.0 version
+
 import SwiftUI
 import AVFoundation
 
@@ -149,6 +153,9 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+
+
 
 /*
 import SwiftUI
